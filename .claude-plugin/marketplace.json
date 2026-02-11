@@ -2,7 +2,7 @@
   "name": "ljg-xray-paper",
   "description": "Paper X-Ray Scanner — academic paper deconstruction skill for Claude Code",
   "owner": {
-    "name": "lijigang"
+    "name": "jiangyunpeng"
   },
   "metadata": {
     "description": "Deconstructs academic papers like an X-ray machine, extracting core contributions, critical assumptions, and napkin-worthy insights from research papers.",
